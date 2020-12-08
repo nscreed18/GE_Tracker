@@ -1,8 +1,13 @@
+#Install packages required from windows command prompt
+# python -m pip install requests
+# python -m pip install colorama
 import requests
 import json
 from colorama import Fore, Back, Style, init
 
 init()
+
+#sub in item IDs from https://www.osrsbox.com/tools/item-search/
 items = ["139", "2353", "2", "5295", "561","6693","231","257","573","12627","7936"]
 print("{:20} {:20} {:20} {:20}".format('Item Name','Item Price','Item Price Change','30 Day Change'))
 
