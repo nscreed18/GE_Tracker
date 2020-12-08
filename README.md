@@ -2,7 +2,9 @@
 Easily track GE prices in Runescape
 
 Install python for windows then open a command prompt and execute the following commands:
+
 python -m pip install requests
+
 python -m pip install colorama
 
 For OSRS:
