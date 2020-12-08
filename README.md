@@ -7,11 +7,15 @@ python -m pip install requests
 
 python -m pip install colorama
 
+---------
 For OSRS:
+---------
  *Sub in the item IDs you want to track on line 10 of the code for the "items" list
  *IDs can be found on  https://www.osrsbox.com/tools/item-search/
 
-For RS3
+--------
+For RS3:
+--------
 
 *Sub in the item IDs you want to track on line 13 of the code for the "items" list
 
