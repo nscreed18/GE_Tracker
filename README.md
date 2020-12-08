@@ -1,7 +1,7 @@
 # GE_Tracker
 Easily track GE prices in Runescape
 
-Install python for windows then open a command prompt and execute the following commands:
+Install python for windows then open a command prompt and execute the following commands to install the dependencies:
 
 python -m pip install requests
 
